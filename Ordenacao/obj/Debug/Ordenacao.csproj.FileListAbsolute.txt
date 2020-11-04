@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\Mestrado\Ordenacao\Ordenacao\bin\Debug\Ordenacao.exe.config
+C:\Users\Dell\Desktop\Mestrado\Ordenacao\Ordenacao\bin\Debug\Ordenacao.exe
+C:\Users\Dell\Desktop\Mestrado\Ordenacao\Ordenacao\bin\Debug\Ordenacao.pdb
+C:\Users\Dell\Desktop\Mestrado\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Mestrado\Ordenacao\Ordenacao\obj\Debug\Ordenacao.Form1.resources
+C:\Users\Dell\Desktop\Mestrado\Ordenacao\Ordenacao\obj\Debug\Ordenacao.Properties.Resources.resources
+C:\Users\Dell\Desktop\Mestrado\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Mestrado\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Mestrado\Ordenacao\Ordenacao\obj\Debug\Ordenacao.exe
+C:\Users\Dell\Desktop\Mestrado\Ordenacao\Ordenacao\obj\Debug\Ordenacao.pdb
